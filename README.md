@@ -39,11 +39,11 @@ Continue até encontrar todos os pares!
 
 📸 Capturas de Tela
 
-![Tela Inicial](../imagens//tela-inicial.jpg)
+![Tela Inicial](https://github.com/NandaCoderDev/memory-game/blob/main/src/imagens/tela-inicial.jpg)
 
-![Jogo em Andamento](../imagens/jogo-andamento.jpg)
+![Jogo em Andamento](https://github.com/NandaCoderDev/memory-game/blob/main/src/imagens/jogo-andamento.jpg)
 
-![Tela de Vitória](../imagens/tela-vitoria.jpg)
+![Tela de Vitória](https://github.com/NandaCoderDev/memory-game/blob/main/src/imagens/tela-vitoria.jpg)
 
 🔗 Clique e jogue você também!
 Experimente o jogo agora mesmo: https://nandacoderdev.github.io/memory-game/
