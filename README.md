@@ -1,8 +1,11 @@
 Jogo da Memória
-Um divertido jogo da memória desenvolvido como parte de um desafio do bootcamp da DIO em parceria com a Ri Happy. 
+
+Um divertido jogo da memória desenvolvido como parte de um desafio do bootcamp da DIO em parceria com a Ri Happy.
+
 Este projeto visa aprimorar suas habilidades de memória e lógica de forma interativa.
 
 🚀 Tecnologias Utilizadas
+
 O jogo foi construído utilizando as seguintes tecnologias web:
 
 HTML: Para a estrutura e conteúdo da página.
@@ -12,6 +15,7 @@ CSS: Para a estilização e o design visual do jogo.
 JavaScript: Para a lógica do jogo, manipulação de elementos e interatividade.
 
 ▶️ Como Jogar
+
 Clone o Repositório:
 
 Bash
