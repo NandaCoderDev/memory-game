@@ -1,4 +1,4 @@
-﻿Jogo da Memória
+Jogo da Memória
 Um divertido jogo da memória desenvolvido como parte de um desafio do bootcamp da DIO em parceria com a Ri Happy. Este projeto visa aprimorar suas habilidades de memória e lógica de forma interativa.
 
 🚀 Tecnologias Utilizadas
@@ -37,14 +37,17 @@ Se forem diferentes, elas se virarão novamente após um curto período.
 
 Continue até encontrar todos os pares!
 
+📸 Capturas de Tela
+
+![Tela Inicial](../imagens//tela-inicial.jpg)
+
+![Jogo em Andamento](../imagens/jogo-andamento.jpg)
+
+![Tela de Vitória](../imagens/tela-vitoria.jpg)
+
+🔗 Clique e jogue você também!
+Experimente o jogo agora mesmo: https://nandacoderdev.github.io/memory-game/
+
 🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests no repositório.
-
-Observações:
-
- "Capturas de Tela" 
- 
- 
- Clique e jogue você tambem :
-
 
